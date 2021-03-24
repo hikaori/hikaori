@@ -1,11 +1,20 @@
 
-
-[![typescript](https://img.shields.io/badge/TypeScript-Fan-FAC151.svg?logo=typescript&logoWidth=20)](https://github.com/natterstefan)
-[![javascript](https://img.shields.io/badge/JavaScript-Fan-FAC151.svg?logo=javascript&logoWidth=20)](https://github.com/natterstefan)
-[![react](https://img.shields.io/badge/React-Fan-FAC151.svg?logo=React&logoWidth=20)](https://github.com/natterstefan)
-
-
-
+<p align="center">
+  <img width="140" src="https://user-images.githubusercontent.com/6661165/91657958-61b4fd00-eb00-11ea-9def-dc7ef5367e34.png" />  
+  <h2 align="center">Kaori Hirata</h2>
+  <p align="center"> :computer: Front end / software developer :iphone:</p>
+</p>
+<p align="center">
+  <span>
+    <img src="https://img.shields.io/badge/TypeScript-Fan-FAC151.svg?logo=typescript&logoWidth=20"/> 
+  </span>
+  <span>
+    <img src="https://img.shields.io/badge/JavaScript-Fan-FAC151.svg?logo=javascript&logoWidth=20"/> 
+  </span>
+  <span>
+    <img src="https://img.shields.io/badge/React-Fan-FAC151.svg?logo=React&logoWidth=20"/> 
+  </span>
+</p>
 
 
 ## &#x1f4c8; My GitHub Stats
